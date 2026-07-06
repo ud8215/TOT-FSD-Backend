@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "my first mern project",
+  "keywords": [
+    "reactjs",
+    "mongodb",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Utkarsh Dixit",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
